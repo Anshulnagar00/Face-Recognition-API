@@ -5,8 +5,8 @@ using Python 3
 
 1. Add New User
 
-r = requests.post(URL+'/add_user',{"username":"Anshul Nagar","password":"12345"}) \n
-r.text
+> r = requests.post(URL+'/add_user',{"username":"Anshul Nagar","password":"12345"}) 
+> r.text
 
 2. Add a Face
 
